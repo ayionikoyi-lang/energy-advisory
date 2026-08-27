@@ -47,5 +47,5 @@ Tool 2:
 - current web research
 - advisory/compliance implications
 - evidence links
-
+Energy Advisory live research tool.
 The UI uses current online information; it does not depend on a static market-news database.
